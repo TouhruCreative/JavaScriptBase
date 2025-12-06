@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  justify-content: space-between; /* распределение */
+  align-items: center; /* выравнивание по вертикали */
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr; /* три колонки */
+  gap: 10px;
+}
+
+.item {
+  background: lightgray;
+  padding: 10px;
+}
+
+.container {
+  width: 600px;
+}
+
+@media (max-width: 600px) {
+  .container {
+    width: 100%; /* на телефоне — во всю ширину */
+  }
+}
+
+.parent {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background: lightblue;
+}
+
+.child {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  background: red;
+  padding: 5px;
+}
+.fixed-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: green;
+  color: white;
+  padding: 10px;
+}
