@@ -9,7 +9,7 @@ Repeat htmls and css skils:
  - position: relative, absolute, fixed;
  - forms: input, textarea, select;
 
-# BASE javascrip
+# BASE javascript
 Reapeat JavaScript skills, connect JS to html.
  - Типы данных
  - let / const
@@ -22,3 +22,14 @@ Reapeat JavaScript skills, connect JS to html.
  - Объекты + деструктуризация
  - Функции и стрелочные функции
  - Основы DOM
+
+# Javascript Plus
+A litter better base for javascript
+ - Destructuring arrays
+ - Destructuring objects
+ - Spread operator
+ - Rest operator
+ - Callbacks
+ - Promises
+ - async / await
+ - Fetch API
