@@ -36,6 +36,8 @@ A litter better base for javascript
 
 # About my "mini-projects"
 In every v1 - its my version project, v2 - its project created by AI and defines itself as currect resolve.
- - [Calculator v1](https://github.com/TouhruCreative/JavaScriptBase/tree/main/JavaScriptbase/MiniProjects/Calculatorv2)
- - [Calculator v2]()
+
+ - [Calculator v1](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Mini%20Projects/Calcualtor%20v1)
+ - [Calculator v2](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Mini%20Projects/Calcualtor%20v2)
+
 
