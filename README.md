@@ -33,3 +33,8 @@ A litter better base for javascript
  - Promises
  - async / await
  - Fetch API
+
+# About my "mini-projects"
+In every v1 - its my version project, v2 - its project created by AI and defines itself as currect resolve.
+ - [Calculator v1]()
+ - [Calculator v2]()
