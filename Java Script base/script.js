@@ -46,3 +46,4 @@ title.textContent = "Новый заголовок";
 title.addEventListener("click", () => {
   alert("Кликнули по заголовку!");
 });
+

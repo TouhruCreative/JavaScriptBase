@@ -83,3 +83,10 @@ fetch("https://jsonplaceholder.typicode.com/posts", {
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ title: "Hello" })
 });
+
+const title = document.getElementById("work");
+title.addEventListener("click", () => {
+  fetch("https://jsonplaceholder.typicode.com/posts/1")
+    .then(res => res.json())
+    .then(data => console.log(data));
+});
