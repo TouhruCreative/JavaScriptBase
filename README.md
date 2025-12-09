@@ -10,7 +10,7 @@ Repeat htmls and css skils:
  - forms: input, textarea, select;
 
 ## BASE javascript
-###Reapeat JavaScript skills, connect JS to html.
+### Reapeat JavaScript skills, connect JS to html.
  - Типы данных
  - let / const
  - Условия (if / else / switch)
@@ -24,7 +24,7 @@ Repeat htmls and css skils:
  - Основы DOM
 
 ## Javascript Plus
-###A litter better base for javascript
+### A litter better base for javascript
  - Destructuring arrays
  - Destructuring objects
  - Spread operator
@@ -39,6 +39,7 @@ In every v1 - its my version project, v2 - its project created by AI and defines
 ### Calculator:
  - [Calculator v1](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Mini%20Projects/Calculator%20v1)
  - [Calculator v2](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Mini%20Projects/Calcualtor%20v2)
+
 
 
 
