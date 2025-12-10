@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Фильтр товаров</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Каталог товаров</h1>
+
+    <div class="filters">
+        <label>
+            Категория:
+            <select id="categoryFilter">
+                <option value="">Все</option>
+                <option value="electronics">Электроника</option>
+                <option value="fashion">Мода</option>
+            </select>
+        </label>
+
+        <label>
+            Цвет:
+            <select id="colorFilter">
+                <option value="">Все</option>
+                <option value="black">Черный</option>
+                <option value="white">Белый</option>
+                <option value="blue">Синий</option>
+            </select>
+        </label>
+
+        <label>
+            Бренд:
+            <select id="brandFilter">
+                <option value="">Все</option>
+                <option value="ASUS">ASUS</option>
+                <option value="Samsung">Samsung</option>
+                <option value="Nike">Nike</option>
+                <option value="Zara">Zara</option>
+                <option value="Logitech">Logitech</option>
+            </select>
+        </label>
+
+        <label>
+            Цена от:
+            <input type="number" id="priceMin" placeholder="мин" min="0">
+        </label>
+
+        <label>
+            до:
+            <input type="number" id="priceMax" placeholder="макс" min="0">
+        </label>
+
+        <button id="applyFilters">Применить фильтры</button>
+        <button id="clearFilters">Сбросить фильтры</button>
+    </div>
+
+    <div id="products" class="products"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
