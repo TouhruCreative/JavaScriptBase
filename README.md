@@ -10,7 +10,7 @@ Repeat htmls and css skils:
  - forms: input, textarea, select;
 
 ## BASE javascript
-### [Reapeat JavaScript skills, connect JS to html.](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Base)
+### [Reapeat JavaScript skills](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Base)
  - Типы данных
  - let / const
  - Условия (if / else / switch)
@@ -46,6 +46,7 @@ Need create massive products and filter for him.
 Total AI grand 7.4/10.
  - [Filter v1](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Mini%20Projects/Filter%20v1)
  - [Filter v2](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Mini%20Projects/Filter%20v2)
+
 
 
 
