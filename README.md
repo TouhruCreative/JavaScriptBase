@@ -2,7 +2,7 @@
 
 This repositories created by me for my repeat javascript, html, css skills.
 
-## BASE html + css
+## [BASE html + css](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Html%20%2B%20css%20base)
 Repeat htmls and css skils:
  - syntax header, nav, main, section, footer base html;
  - flexbox, grid, media queries;
@@ -10,7 +10,7 @@ Repeat htmls and css skils:
  - forms: input, textarea, select;
 
 ## BASE javascript
-### Reapeat JavaScript skills, connect JS to html.
+### [Reapeat JavaScript skills, connect JS to html.(https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Base)
  - Типы данных
  - let / const
  - Условия (if / else / switch)
@@ -23,7 +23,7 @@ Repeat htmls and css skils:
  - Функции и стрелочные функции
  - Основы DOM
 
-## Javascript Plus
+## [Javascript Plus](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Plus)
 ### A litter better base for javascript
  - Destructuring arrays
  - Destructuring objects
@@ -46,6 +46,7 @@ Need create massive products and filter for him.
 Total AI grand 7.4/10.
  - [Filter v1](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Mini%20Projects/Filter%20v1)
  - [Filter v2](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Mini%20Projects/Filter%20v2)
+
 
 
 
