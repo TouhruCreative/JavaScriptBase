@@ -44,7 +44,8 @@ In this task - im fall. AI granded my work 2/10.
 ### Filter in productgs
 Need create massive products and filter for him.
 Total AI grand 7.4/10.
- - [Filter v1]()
- - [Filter v2]()
+ - [Filter v1](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Mini%20Projects/Filter%20v1)
+ - [Filter v2](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Mini%20Projects/Filter%20v2)
+
 
 
