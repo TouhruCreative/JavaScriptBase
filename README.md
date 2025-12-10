@@ -23,8 +23,8 @@ Repeat htmls and css skils:
  - Functions and arrow functions
  - DOM basics
 
-## [Javascript Plus](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Plus)
-### A litter better base for javascript
+### [Javascript Plus](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Plus)
+A litter better base for javascript
  - Destructuring arrays
  - Destructuring objects
  - Spread operator
@@ -34,7 +34,7 @@ Repeat htmls and css skils:
  - async / await
  - Fetch API
 
-## About my "mini-projects"
+## About my [mini-projects](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Mini%20Projects)
 In every v1 - its my version project, v2 - its project created by AI and defines itself as currect resolve.
 ### Calculator:
 In this task - im fall. AI granded my work 2/10. 
@@ -46,6 +46,7 @@ Need create massive products and filter for him.
 Total AI grand 7.4/10.
  - [Filter v1](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Mini%20Projects/Filter%20v1)
  - [Filter v2](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Mini%20Projects/Filter%20v2)
+
 
 
 
