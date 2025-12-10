@@ -11,17 +11,17 @@ Repeat htmls and css skils:
 
 ## BASE javascript
 ### [Reapeat JavaScript skills](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Base)
- - Типы данных
+ - Data types
  - let / const
- - Условия (if / else / switch)
- - Циклы (for / while)
- - Методы массивов: map
- - Методы массивов: filter
- - Методы массивов: reduce
+ - Conditions (if / else / switch)
+ - Loops (for / while)
+ - Array methods: map
+ - Array methods: filter
+ - Array methods: reduce
  - forEach
- - Объекты + деструктуризация
- - Функции и стрелочные функции
- - Основы DOM
+ - Objects + destructuring
+ - Functions and arrow functions
+ - DOM basics
 
 ## [Javascript Plus](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Plus)
 ### A litter better base for javascript
@@ -46,6 +46,7 @@ Need create massive products and filter for him.
 Total AI grand 7.4/10.
  - [Filter v1](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Mini%20Projects/Filter%20v1)
  - [Filter v2](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Mini%20Projects/Filter%20v2)
+
 
 
 
