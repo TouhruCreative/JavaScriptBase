@@ -9,7 +9,7 @@ Repeat htmls and css skils:
  - position: relative, absolute, fixed;
  - forms: input, textarea, select;
 
-## BASE javascript
+## [BASE javascript](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base)
 ### [Reapeat JavaScript skills](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Base)
  - Data types
  - let / const
@@ -46,6 +46,7 @@ Need create massive products and filter for him.
 Total AI grand 7.4/10.
  - [Filter v1](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Mini%20Projects/Filter%20v1)
  - [Filter v2](https://github.com/TouhruCreative/JavaScriptBase/tree/main/Java%20Script%20base/Mini%20Projects/Filter%20v2)
+
 
 
 
